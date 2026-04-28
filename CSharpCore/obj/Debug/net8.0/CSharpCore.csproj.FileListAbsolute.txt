@@ -12,3 +12,4 @@ D:\Programming\Teaching\CodeLank\Practices\C#-F02\CSharpCore\CSharpCore\obj\Debu
 D:\Programming\Teaching\CodeLank\Practices\C#-F02\CSharpCore\CSharpCore\obj\Debug\net8.0\CSharpCore.pdb
 D:\Programming\Teaching\CodeLank\Practices\C#-F02\CSharpCore\CSharpCore\obj\Debug\net8.0\CSharpCore.genruntimeconfig.cache
 D:\Programming\Teaching\CodeLank\Practices\C#-F02\CSharpCore\CSharpCore\obj\Debug\net8.0\ref\CSharpCore.dll
+D:\Programming\Teaching\CodeLank\Practices\C#-F02\CSharpCore\CSharpCore\obj\Debug\net8.0\CSharpCore.sourcelink.json
